@@ -5,3 +5,14 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+#header {
+    background-color: #1b1b1e;
+    color: #white;
+
+#hero {
+    font-size: 22px; 
+}
+
+#hero > h1 {
+    font-size: 80px;
+}
